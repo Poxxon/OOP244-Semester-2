@@ -1,0 +1,2 @@
+B	1	S001	Book one	0	2024/08/05	John Doe
+P	2	S002	Daily Doe	0	2024/08/05

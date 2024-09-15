@@ -1,0 +1,7 @@
+Date.cpp: In member function ‘int seneca::Date::mdays() const’:
+Date.cpp:41:17: error: ‘mon’ was not declared in this scope
+     return days[mon] + int((mon == 1) * (((m_year % 4 == 0) && (m_year % 100 != 0)) || (m_year % 400 == 0)));
+                 ^
+Date.cpp:42:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
